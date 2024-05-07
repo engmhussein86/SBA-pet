@@ -1,5 +1,5 @@
 import { fetchData , createPetCard } from './api.js';
-//https://cat-fact.herokuapp.com
+
 const apiUrlImage = 'https://api.thecatapi.com/v1/images/search';
 const apiUrlFacts = 'https://cat-fact.herokuapp.com/facts/random?animal_type=cat&amount=5';
 
